@@ -428,6 +428,9 @@ footer{
 /*justify-content:center;*/
 align-items:center;
     }
+     #box1,#box2{
+     margin-bottom:20px;
+ }
 }
 #web{
     background-color:darkblue
@@ -528,6 +531,9 @@ align-items:center;
         .project-tile div{
   padding-top:5px;
             padding-bottom:5px;}
+     #box1,#box2{
+     margin-bottom:20px;
+ }
 }
 .tooltip .tooltiptext {
     visibility: hidden;
