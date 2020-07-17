@@ -406,22 +406,7 @@ footer{
  
 }
 @media( max-width:900px){
-    #navbar{
-        font-size:14px;}
-    #welcome-section h1{
-        color:white;
-        font-size:30px
-    }
-    #welcome-section h2{
-    color:rgb(222,100,100);
-    font-size:20px;
-    
-    }
-    #welcome-section p{
-        color:white;
-        font-size:14px
-    }
-
+   
     /*******************************/
     .row{
       margin: auto 0;
