@@ -40,7 +40,7 @@ background-color:darkslategrey;
 /*this to make this section fit the whole screen*/
 position:relative;
 /* equal to the height of the viewport*/
-height: 100vh;
+min-height: 100vh;
 
 text-align:center;
 min-width: 100vw;
