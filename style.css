@@ -133,7 +133,7 @@ main span{
     from{background-color:darkslategrey;}
     to{background-color:rgb(222,100,100);}
 }
-@media( min-width:901px) {
+@media( min-width:1001px) {
  
 #web{
     margin-top: 10%; 
@@ -405,7 +405,7 @@ footer{
    font-weight:400;
  
 }
-@media( max-width:900px){
+@media( max-width:1000px){
   #navbar{
         font-size:14px;}
     #welcome-section h1{
