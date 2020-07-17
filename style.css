@@ -535,7 +535,7 @@ align-items:center;
      margin-bottom:20px;
  }
 }
-.tooltip .tooltiptext {
+.tooltip1 .tooltiptext {
     visibility: hidden;
     width: 120px;
     background-color: black;
@@ -548,6 +548,6 @@ align-items:center;
     position: absolute;
     z-index: 1;
   }
-  .tooltip:hover .tooltiptext {
+  .tooltip1:hover .tooltiptext {
     visibility: visible;
   }
