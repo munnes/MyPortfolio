@@ -455,7 +455,7 @@ footer{
      .row {
         display:flex;
         align-items:center;
-        flex-direction:column;
+       
      }
         .project-tile div{
   padding-top:5px;
