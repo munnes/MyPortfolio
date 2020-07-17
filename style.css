@@ -417,6 +417,10 @@ footer{
  
 }
 @media( max-width:900px){
+    #skills{
+    display:flex;
+    justify-content:center;
+}
     #projects {
          display:flex;
     flex-direction:column;
@@ -490,6 +494,10 @@ align-items:center;
 }
 
 @media( max-width:600px) {
+        #skills{
+    display:flex;
+    justify-content:center;
+}
     
     #welcome-section h1 {
         font-size: 40px;
