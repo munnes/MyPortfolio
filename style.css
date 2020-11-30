@@ -30,12 +30,12 @@ color: white;
     align-items:center;  
  } 
  .skills {
-   min-height: 250px;/*because its not work fine in IE*/
+ /*  min-height: 250px;/*because its not work fine in IE*/
     border:solid;
    border-color:#a896a0; 
    border-radius:5%; 
    margin-bottom: 15px;
-   height: 40vh;
+   min-height: 40vh;
 }
 
 .skills h3{
