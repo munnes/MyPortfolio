@@ -48,6 +48,9 @@ color: white;
   text-align: center;
 
 }
+#skillContainer .row{
+    justify-content: center;
+}
 #workContainer{
     width:97%;
     text-align: center;  
