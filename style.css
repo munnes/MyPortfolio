@@ -158,6 +158,9 @@ color: white;
   
     background-color: 	#800080 ;
 }
+#queen{
+    background-color:  #e5352b; 
+}
 /*div is for fix in container p not working well*/
 .project-tile div{
     text-decoration:none;
