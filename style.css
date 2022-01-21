@@ -30,7 +30,7 @@ color: white;
     align-items:center;  
  } 
  .skills {
-   min-height: 200px;/*because its not work fine in IE*/
+   min-height: 320px;/*because its not work fine in IE*/
     border:solid;
    border-color:#a896a0; 
    border-radius:5%; 
