@@ -221,7 +221,7 @@ color: white;
 }
 .tooltip1 .tooltiptext {
     visibility: hidden;
-    width: 120px;
+     width: 130px;
     background-color: #cc0000;;
     color: #fff;
     text-align: center;
